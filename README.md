@@ -49,4 +49,4 @@ Advantages of Using Hashcash in this Project:
 + **Customization:** Hashcash can be easily customized to adjust the level of difficulty for solving the challenge. In this project, the number of leading zeros in the proof can be adjusted to control the difficulty level.
 
 ## 4. Hash Function:
-In the example, I used SHA-256 as the hash function. SHA-256 is widely used and considered secure.
+In the project, I used SHA-256 as the hash function. SHA-256 is widely used and considered secure.
